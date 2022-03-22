@@ -1,0 +1,27 @@
+{
+  "name": "monorepo-starter",
+  "version": "0.0.1",
+  "description": "A Simple Monorepo Starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donaldxdonald/monorepo-starter.git"
+  },
+  "author": "Donald Mok <mzhlovefama@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/donaldxdonald/monorepo-starter/issues"
+  },
+  "homepage": "https://github.com/donaldxdonald/monorepo-starter#readme",
+  "devDependencies": {
+    "@changesets/cli": "^2.21.1"
+  },
+  "dependencies": {
+    "@dndxdnd/eslint-config": "^0.0.4",
+    "eslint": "^8.11.0",
+    "typescript": "^4.6.2"
+  }
+}
