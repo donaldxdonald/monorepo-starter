@@ -1,4 +1,4 @@
-👽 My Monorepo Starter
+# 👽 My Monorepo Starter
 
 ## Usage
 
