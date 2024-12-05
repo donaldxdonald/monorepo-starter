@@ -4,9 +4,7 @@
   "description": "A Simple Monorepo Starter",
   "main": "index.js",
   "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/donaldxdonald/monorepo-starter.git"
@@ -18,11 +16,11 @@
   },
   "homepage": "https://github.com/donaldxdonald/monorepo-starter#readme",
   "devDependencies": {
-    "@changesets/cli": "^2.21.1"
+    "@changesets/cli": "^2.27.10"
   },
   "dependencies": {
-    "@dndxdnd/eslint-config": "^2.0.0",
-    "eslint": "^8.57.0",
-    "typescript": "^5.4.5"
+    "@dndxdnd/eslint-config": "^2.8.1",
+    "eslint": "^9.16.0",
+    "typescript": "^5.7.2"
   }
 }

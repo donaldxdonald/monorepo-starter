@@ -1,4 +1,4 @@
-<h2 align="center">👽 My Monorepo Starter<p>
+👽 My Monorepo Starter
 
 ## Usage
 
